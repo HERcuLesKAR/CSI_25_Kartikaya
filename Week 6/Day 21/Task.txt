@@ -1,3 +1,0 @@
-Use Day 10 Assignment File 
-
-Apply Object level security (OLS) on Filled Map Visual
